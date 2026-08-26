@@ -1,5 +1,7 @@
 # Fruit Ninja Hand Controller
 
+
+
 Control the browser game [Fruit Ninja](https://poki.com/en/g/fruit-ninja) using a colored marker (e.g. a highlighter) tracked through your webcam, instead of a mouse.
 
 ## How it works
